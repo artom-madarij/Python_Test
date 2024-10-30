@@ -44,3 +44,4 @@ def main():
     print('Lamp1:\n',repr(lamp1))
     print('Lamp3:\n', repr(lamp3))
 main()
+print('hello')
